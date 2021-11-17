@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    font-family: Jazz LET, fantasy;
+    font-weight: bold;
+    background-color: #004241;
+    
+    margin: 0;
+}
+
+.a{
+    padding: 10px;
+    height: auto;
+    width: 100%;
+    background-color: #0b2004;
+    font-size: 20pt;
+    box-shadow: 10px 10px 10px grey;
+    color: #eae5e1;
+}
+
+p{
+    margin:0;
+    margin-bottom: 20px;
+}
+
+img{
+    margin-top: 20px;
+    width: 500px;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+.b{
+    padding: 10px;
+    padding-top: 0;
+    background-color: #4f6358;
+    position: relative;
+    width: 90%;
+    left: 50%;
+    margin-left: -45%;
+    margin-top: 85px;
+    border: 3px solid black;
+
+    box-shadow: 10px 10px 10px black;
+    color: black;
+}
+
+
